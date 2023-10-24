@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.app{
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  font-family: 'Lato', sans-serif;
+}
